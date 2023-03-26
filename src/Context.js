@@ -53,5 +53,4 @@ const CarsProvider = ({ children }) => {
 };
 
 export { CarsProvider };
-
 export default CarsContext;

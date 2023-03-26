@@ -14,9 +14,9 @@ Para comenzar a trabajar con la aplicación, sigue estos pasos:
 La aplicación se ejecutará en el puerto 3000. Puedes verla en tu navegador accediendo a http://localhost:3000.
 Uso
 
-La aplicación es una interfaz de usuario sencilla que te permite realizar búsquedas de Vehiculos en una en un Json Local y agregarlos a una card y visualizarlos. Para utilizarla, sigue estos pasos:
+La aplicación es una interfaz de usuario sencilla que te permite realizar búsquedas de Vehiculos en una en un Json Local, agregarlos a una card y visualizarlos. Para utilizarla, sigue estos pasos:
 
-    Debes escoger el vehiculo que mas te guste, darle al boton comprar. Si desean cocnocer las caracteristicas solo utiliza el boton ver mas y te dara sus caracteristicas en una nueva ventana. Una vez seleccionado solo debes presionar el carrito de compras y te dara un resumen de lo adquirido, puedes aumenta la cantidad o disminuir, para culminar preciona ir a pagar y listo!!!!
+    Debes escoger el vehiculo que mas te guste, darle al boton comprar. Si desean conocer mas detalles, solo utiliza el boton ver mas y te dara sus especificaciones en una nueva ventana. Una vez seleccionado solo debes presionar al total de compras y te dara un resumen de lo adquirido, puedes aumenta la cantidad o disminuir, para culminar tu compra presiona ir a pagar y listo!!!!
 
 Contribuciones
 

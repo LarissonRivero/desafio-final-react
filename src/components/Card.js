@@ -43,7 +43,6 @@ const Card = () => {
                   onClick={() => navigate(`/cars/${car.id}`)}
                 >
                   Ver Más
-                  {/* &#128064; */}
                 </button>
   
                 <button
@@ -51,7 +50,6 @@ const Card = () => {
                   onClick={() => addToCart(car)}
                 >
                   Comprar
-                  {/* &#128722; */}
                 </button>
               </div>
             </div>

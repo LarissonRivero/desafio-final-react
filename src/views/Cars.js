@@ -38,7 +38,6 @@ const obtenerDatos = () => {
                 <ul>
                   {carDetail.specifications?.map((specification, i) => (
                     <li key={i}>
-                      {/* &#127829;  */}
                       ⚙️{specification}
                     </li>
                   ))}
@@ -50,7 +49,6 @@ const obtenerDatos = () => {
                     onClick={() => addToCart(carDetail)}
                   >
                     Comprar
-                    {/* &#128722; */}
                   </button>
                 </div>
               </div>

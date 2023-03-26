@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import { useContext } from 'react';
 import CarsContext from '../Context';
 import { formatNumber } from '../Helper';
@@ -40,8 +41,10 @@ const Carrito = () => {
                 </div>
               </div>
             ))}
+            <Link to="/" className="logo-nombre mx-1 mb-0">
             <h2 className="my-4">Total: ${formatNumber(total)}</h2>
             <button className="btn btn-success">Ir a Pagar</button>
+            </Link>
           </div>
         </div>
       </div>
