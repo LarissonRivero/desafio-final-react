@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+¡Bienvenido!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es una aplicación web desarrollada con React, una biblioteca de JavaScript de código abierto para construir interfaces de usuario. En esta aplicación, utilizamos una variedad de herramientas y tecnologías, incluyendo React Router, UseContext, UseState, UseEffect, Fecht y Bootstrap.
 
-## Available Scripts
+//////Instalación/////
 
-In the project directory, you can run:
+Para comenzar a trabajar con la aplicación, sigue estos pasos:
 
-### `npm start`
+    Clona este repositorio en tu computadora local.
+    Abre una terminal en el directorio del proyecto.
+    Ejecuta el comando npm install para instalar las dependencias del proyecto.
+    Ejecuta el comando npm start para iniciar la aplicación en modo de desarrollo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+La aplicación se ejecutará en el puerto 3000. Puedes verla en tu navegador accediendo a http://localhost:3000.
+Uso
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La aplicación es una interfaz de usuario sencilla que te permite realizar búsquedas de Vehiculos en una en un Json Local y agregarlos a una card y visualizarlos. Para utilizarla, sigue estos pasos:
 
-### `npm test`
+    Debes escoger el vehiculo que mas te guste, darle al boton comprar. Si desean cocnocer las caracteristicas solo utiliza el boton ver mas y te dara sus caracteristicas en una nueva ventana. Una vez seleccionado solo debes presionar el carrito de compras y te dara un resumen de lo adquirido, puedes aumenta la cantidad o disminuir, para culminar preciona ir a pagar y listo!!!!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contribuciones
 
-### `npm run build`
+¡Agradecemos cualquier contribución a la aplicación! Si deseas agregar una nueva funcionalidad o solucionar un error, sigue estos pasos:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Crea un fork del repositorio.
+    Crea una rama con tu nueva funcionalidad o corrección de errores.
+    Realiza tus cambios y crea un Pull Request.
+    Espera a que tu Pull Request sea revisado y fusionado.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Licencia
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+La aplicación está bajo la licencia MIT. Si deseas utilizar nuestro código en tu propio proyecto, te invitamos a hacerlo sin restricciones. Agradecemos cualquier atribución que puedas proporcionar.
 
-### `npm run eject`
+Un buen profesor no solo transmite conocimientos, sino que también inspira y motiva a sus estudiantes a crecer y aprender más" - Anonymous.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Agradecimiento hasta el infinito y mas alla al {´TechLead S-V-A`}
