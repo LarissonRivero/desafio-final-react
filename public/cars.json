@@ -1,0 +1,50 @@
+[
+  {
+    "desc": "El Camaro se ha convertido en un icono de la cultura automotriz estadounidense y es muy popular entre los entusiastas de los coches deportivos. Ofrece una combinación de estilo, potencia y manejo deportivo que lo hace muy atractivo para los amantes de los coches.",
+    "id": "C001",
+    "img": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_691301e355b144ab9108dc446f0a4ba1.jpg",
+    "specifications": ["V8", "5.7 litros", "6 Velocidades", "455 HP"],
+    "name": "Chevrolet Camaro",
+    "price": 125000
+  },
+  {
+    "desc": "El Mustang es conocido por su estilo icónico y su potencia. Es un automóvil deportivo muy popular entre los entusiastas de los coches y ha aparecido en numerosas películas y programas de televisión. Además, el Mustang ha sido utilizado como automóvil de carrera y ha ganado varias competiciones de automovilismo a lo largo de los años.",
+    "id": "C002",
+    "img": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_cbcb02b4318c447b953d2d8c6f131e90.jpg",
+    "specifications": ["V8", "5.5 litros", "Automatico", "438 HP"],
+    "name": "Ford Mustang",
+    "price": 110000
+  },
+  {
+    "desc": "El Challenger es conocido por su estilo clásico y su rendimiento excepcional. Es un automóvil deportivo muy popular entre los entusiastas de los coches y ha sido utilizado en varias competiciones de automovilismo. Además, el Challenger ha aparecido en numerosas películas y programas de televisión, lo que lo convierte en un icono de la cultura automotriz estadounidense.",
+    "id": "C003",
+    "img": "https://ymimg1.b8cdn.com/resized/car_model/8492/logo/listing_main_10786_st1280_046.jpg",
+    "specifications": ["V8", "5.1 litros", "7 Velocidades", "440 HP"],
+    "name": "Dodge Challenger",
+    "price": 98000
+  },
+  {
+    "desc": "El F430 también es conocido por su estilo elegante y agresivo, con líneas suaves y curvas pronunciadas que le dan un aspecto dinámico y deportivo. El interior del automóvil está diseñado para ofrecer una experiencia de conducción emocionante, con asientos de carreras de cuero y una consola central futurista.",
+    "id": "C004",
+    "img": "https://st2.depositphotos.com/1150119/6133/i/600/depositphotos_61332329-stock-photo-ferrari-f430.jpg",
+    "specifications": ["V8", "6.0 litros", "Secuencial", "505 HP"],
+    "name": "Ferrarri F430",
+    "price": 145000
+  },
+  {
+    "desc": "El Huracan es conocido por su rendimiento excepcional y su diseño impresionante, el Huracán también es conocido por su maniobrabilidad y facilidad de conducción. El automóvil cuenta con una suspensión adaptativa y una dirección precisa, lo que lo convierte en una opción popular para los conductores que buscan una experiencia de conducción emocionante y controlable.",
+    "id": "C005",
+    "img": "https://imgcdn.oto.com/medium/gallery/color/21/176/lamborghini-huracan-color-996033.jpg",
+    "specifications": ["V8", "5.0 litros", "7 Velocidades", "502 HP"],
+    "name": "Lamborghini Huracan",
+    "price": 138000
+  },
+  {
+    "desc": "El diseño del GranTurismo es elegante y deportivo, con líneas suaves y curvas pronunciadas. El interior del automóvil es lujoso y está diseñado para ofrecer una experiencia de conducción cómoda y emocionante. Cuenta con asientos de cuero, tecnología avanzada y un sistema de sonido de alta calidad",
+    "id": "C006",
+    "img": "https://i.pinimg.com/736x/ec/a0/64/eca064e0d536bd3738bf7a6b05a53de2.jpg",
+    "specifications": ["V8", "5.5 litros", "Automatico", "422 HP"],
+    "name": "Maserati GranTurismo",
+    "price": 125000
+  }
+]
